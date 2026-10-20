@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Duc
 
-<!--
-**ductmOfficial/ductmOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Front-end Engineer with 10+ years of experience, based in Ho Chi Minh City and working remotely with a team in Germany. I build web applications with React, Next.js, and TypeScript, and have led front-end teams of 10+ engineers.
 
-Here are some ideas to get you started:
+**Currently building in public**
+- An accessible React design system
+- An IELTS practice app for web and mobile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech I work with**
+React · Next.js · TypeScript · JavaScript · Vue.js · Redux · Tailwind CSS · Node.js · Figma
+
+**Currently learning**
+Testing (Vitest, Playwright) · React Native · PostgreSQL · Web accessibility (WCAG)
+
+**Find me**
+[Portfolio](https://ductran.vercel.app) · [LinkedIn](https://www.linkedin.com/in/duc-tran-183a56220)
